@@ -72,7 +72,7 @@ The GUI also features a `Find Shortest Path` button that executes the A\* search
 
 ### To Run the Program:
 ```bash
-python maze_astar.py
+AI.py
 ```
 
 This will open a GUI window showing the maze. Click on **"Find Shortest Path"** to start the search and watch the algorithm in action.
@@ -83,7 +83,7 @@ This will open a GUI window showing the maze. Click on **"Find Shortest Path"** 
 
 ```text
 .
-├── maze_astar.py            # Main Python file with A* logic and GUI
+├── AI.py            # Main Python file with A* logic and GUI
 ├── README.md                # You're here!
 └── report.docx              # Coursework report and detailed documentation
 ```
@@ -114,7 +114,6 @@ If no path is found, the GUI will notify: `"No path found!"`
 ## 👨‍🎓 Author
 
 **Smit Jayani**  
-Student ID: 22048422  
 Module: CS7050 – Artificial Intelligence  
 London Metropolitan University
 
